@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ghazian Tsabit Alkamil
-- 👀 I’m interested in mobile app developer and data science
-- 🌱 I’m currently learning flutter and back-end developer
+- 👀 I’m interested in backend developer and data science
+- 🌱 I’m currently learning backend developer and data engineering
 - 📫 How to reach me email: 13520165@std.stei.itb.ac.id
 
