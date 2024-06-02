@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Ghazian Tsabit Alkamil
-- 👀 I’m interested in backend and data engineering
+- 👀 I’m interested in data and software engineering
 - 📫 How to reach me email: tsabitghazian@gmail.com
