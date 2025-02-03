@@ -1,5 +1,5 @@
 ### Hi! 👋 I'm Zian. 
-Highly skilled and versatile professional with expertise in Data, Software, and Cloud Engineering. Adept at designing and developing innovative solutions to complex technical challenges. Proven ability to lead and collaborate with cross-functional teams, ensuring successful project delivery. Curious, adaptable, and continuously seeking opportunities to provide secure and efficient solutions that elevate organizational performance.✨
+Doing Data and Infrastucture Engineering Stuff
 <br><br>
 📫 Reach me via <a href="mailto:tsabitghazian@gmail.com" target="_blank">Email</a> | <a href="https://www.linkedin.com/in/ghaziantsabitalkamil/" target="_blank">LinkedIn</a>
 
