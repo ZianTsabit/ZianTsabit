@@ -8,7 +8,7 @@ Doing Software, Data, and Infrastucture Engineering Stuff
 | --- | --- | --- |
 | Software Engineer I - Data | [Cermati Fintech Group](https://cermati.group/) | June 2025 - Present |
 | Data Engineer | [Intiva](https://intiva.id/) | June 2022 - June 2025 |
-| Data Engineer Intern | [Sinar Mas Land](https://www.sinarmasland.com/) | Apr 2024 - July 2024 |
+| Data Governance Intern | [Sinar Mas Land](https://www.sinarmasland.com/) | Apr 2024 - July 2024 |
 | Data Engineer Intern | [ITB Career Center](https://career.itb.ac.id/) | Sep 2023 - Dec 2023 |
 | Data Engineer Intern | [Cermati Fintech Group](https://cermati.group/) | May 2023 - Sep 2023 |
 
