@@ -1,5 +1,7 @@
 ### Hello, I'm Zian👋. 
-I'm doing Software, Data, and Infrastucture Engineering Stuff
+I'm doing Software, Data, and Infrastucture Engineering Stuff.
+
+P.S. I use Arch btw...
 <br><br>
 📫 Reach me via <a href="mailto:tsabitghazian@gmail.com" target="_blank">Email</a> | <a href="https://www.linkedin.com/in/ghaziantsabitalkamil/" target="_blank">LinkedIn</a>
 
